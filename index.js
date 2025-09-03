@@ -46,23 +46,7 @@ else{
   emailError.textContent="";
 }
 
-// var radios = document.getElementsByName("gender");
-// var genderError = document.getElementById("fifth");
-// var genderSelected =false;
 
-// for (var i=0; i< radios.length;  i++){
-//   if (radios[i].checked){
-//     genderSelected= true;
-//   }
-// }
-//  if (genderSelected ) {
-// genderError .textContent =("Please select gender");
-// genderError.style.color="red"
-// valid= false;
-// }
-// else{
-//   genderError.textContent="";
-// }
 
 var radios=document.getElementsByName("gender");
 var genderError = document.getElementById("fifth");
